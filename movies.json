@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "Caligula",
+    "Date": 1979,
+    "Time": 156,
+    "Category": false,
+    "Type": "movie",
+    "TotalGrades": 5.3,
+    "TotalOfEvaluations": 38212
+  },
+  {
+    "Name": "Matrix",
+    "Date": 1993,
+    "Time": 60,
+    "Category": false,
+    "Type": "series",
+    "TotalGrades": 7.8,
+    "TotalOfEvaluations": 208
+  },
+  {
+    "Name": "Top Gun: Maverick",
+    "Date": 2022,
+    "Time": 130,
+    "Category": false,
+    "Type": "movie",
+    "TotalGrades": 8.2,
+    "TotalOfEvaluations": 686083
+  },
+  {
+    "Name": "Gun",
+    "Date": 2010,
+    "Time": 82,
+    "Category": false,
+    "Type": "movie",
+    "TotalGrades": 3.8,
+    "TotalOfEvaluations": 3907
+  },
+  {
+    "Name": "Encanto",
+    "Date": 2021,
+    "Time": 102,
+    "Category": false,
+    "Type": "movie",
+    "TotalGrades": 7.2,
+    "TotalOfEvaluations": 259821
+  },
+  {
+    "Name": "Dog",
+    "Date": 2022,
+    "Time": 101,
+    "Category": false,
+    "Type": "movie",
+    "TotalGrades": 6.5,
+    "TotalOfEvaluations": 46008
+  }
+]
